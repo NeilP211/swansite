@@ -1,6 +1,5 @@
 import Thumb from './Thumb'
 import Empty from './Empty'
-import { timeAgo } from '../lib/format'
 
 export default function RecentlyPlayed({ recent }) {
   const plays = [...(recent?.plays || [])].sort(
@@ -17,7 +16,6 @@ export default function RecentlyPlayed({ recent }) {
               <div className="name">{p.name}</div>
               <div className="sub">{(p.artists || []).join(', ')}</div>
             </div>
-            <div className="when">{timeAgo(p.played_at)}</div>
           </div>
         ))}
         {!plays.length && <Empty text="Plays will appear here as the fetch job runs." />}
