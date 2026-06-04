@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-04T03:51:40.555Z",
+  "updated_at": "2026-06-04T09:54:24.959Z",
   "is_playing": false,
   "track": {
-    "name": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+    "name": "7 Summers",
     "artists": [
-      "The Smiths"
+      "Morgan Wallen"
     ],
-    "album": "Hatful of Hollow",
-    "image": "https://i.scdn.co/image/ab67616d0000b27304480d4422fe67d383386660",
-    "uri": "spotify:track:1xaTREM89RbIxkcjlpf4Uw"
+    "album": "Dangerous: The Double Album",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+    "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr"
   },
-  "played_at": "2026-06-04T00:47:43.135Z"
+  "played_at": "2026-06-04T00:48:13.295Z"
 }

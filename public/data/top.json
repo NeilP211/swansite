@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T03:51:40.398Z",
+  "generated_at": "2026-06-04T09:54:24.662Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -593,18 +593,6 @@
         },
         {
           "rank": 48,
-          "name": "jaded",
-          "artists": [
-            "xaviersobased"
-          ],
-          "album": "with 2 (hosted by d9lton)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
-          "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
-          "url": "https://open.spotify.com/track/1Hnx5gNFMhPuONgSwNefR5",
-          "duration_ms": 112733
-        },
-        {
-          "rank": 49,
           "name": "Yooo",
           "artists": [
             "Nettspend"
@@ -616,7 +604,7 @@
           "duration_ms": 77135
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Love Story",
           "artists": [
             "Taylor Swift"
@@ -626,6 +614,18 @@
           "uri": "spotify:track:1D4PL9B8gOg78jiHg3FvBb",
           "url": "https://open.spotify.com/track/1D4PL9B8gOg78jiHg3FvBb",
           "duration_ms": 236266
+        },
+        {
+          "rank": 50,
+          "name": "jaded",
+          "artists": [
+            "xaviersobased"
+          ],
+          "album": "with 2 (hosted by d9lton)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+          "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
+          "url": "https://open.spotify.com/track/1Hnx5gNFMhPuONgSwNefR5",
+          "duration_ms": 112733
         }
       ],
       "artists": [
@@ -671,14 +671,6 @@
         },
         {
           "rank": 6,
-          "name": "xaviersobased",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
-          "genres": [],
-          "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
-          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
-        },
-        {
-          "rank": 7,
           "name": "Tevvez",
           "image": "https://i.scdn.co/image/ab6761610000e5eb203b3c4b6017146c6ceae2c3",
           "genres": [],
@@ -686,7 +678,7 @@
           "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Gracie Abrams",
           "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
           "genres": [],
@@ -694,7 +686,7 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Sherine",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1fa228ebdfdbd596bfa1bd77",
           "genres": [],
@@ -702,12 +694,20 @@
           "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Taylor Swift",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
           "genres": [],
           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "rank": 10,
+          "name": "xaviersobased",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
+          "genres": [],
+          "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
+          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
         },
         {
           "rank": 11,
@@ -1419,6 +1419,18 @@
         },
         {
           "rank": 32,
+          "name": "Wherever I May Roam - Remastered 2021",
+          "artists": [
+            "Metallica"
+          ],
+          "album": "Metallica (Remastered 2021)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27376c60d2128c8e4649b85f2b2",
+          "uri": "spotify:track:3quYoE7KgIIaqVXPd7MpX0",
+          "url": "https://open.spotify.com/track/3quYoE7KgIIaqVXPd7MpX0",
+          "duration_ms": 404333
+        },
+        {
+          "rank": 33,
           "name": "بسبوس عاشق بسة",
           "artists": [
             "المايسترو محمد الشيخ"
@@ -1430,7 +1442,7 @@
           "duration_ms": 212324
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "My Soldiers Rage",
           "artists": [
             "Maul"
@@ -1442,7 +1454,7 @@
           "duration_ms": 174694
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Love Me Like You Do",
           "artists": [
             "Ellie Goulding"
@@ -1454,7 +1466,7 @@
           "duration_ms": 253520
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Spinnin",
           "artists": [
             "Kyle Richh"
@@ -1466,7 +1478,7 @@
           "duration_ms": 164583
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Ele Te Bota Soca Soca",
           "artists": [
             "MC Mazzie",
@@ -1481,7 +1493,7 @@
           "duration_ms": 180927
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Dile",
           "artists": [
             "Don Omar"
@@ -1493,7 +1505,7 @@
           "duration_ms": 204600
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Kifek 3A Fra2e",
           "artists": [
             "Fadel Chaker",
@@ -1506,7 +1518,7 @@
           "duration_ms": 228236
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Team",
           "artists": [
             "Xavier Weeks"
@@ -1518,7 +1530,7 @@
           "duration_ms": 150883
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "FREAK (Hardstyle) - Ultra Slowed",
           "artists": [
             "Fyex",
@@ -1532,7 +1544,7 @@
           "duration_ms": 187581
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "fatman",
           "artists": [
             "boolymon"
@@ -1542,18 +1554,6 @@
           "uri": "spotify:track:0Vrp38pF5LU2blusmFQxLP",
           "url": "https://open.spotify.com/track/0Vrp38pF5LU2blusmFQxLP",
           "duration_ms": 90426
-        },
-        {
-          "rank": 42,
-          "name": "Wherever I May Roam - Remastered 2021",
-          "artists": [
-            "Metallica"
-          ],
-          "album": "Metallica (Remastered 2021)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27376c60d2128c8e4649b85f2b2",
-          "uri": "spotify:track:3quYoE7KgIIaqVXPd7MpX0",
-          "url": "https://open.spotify.com/track/3quYoE7KgIIaqVXPd7MpX0",
-          "duration_ms": 404333
         },
         {
           "rank": 43,
@@ -1760,6 +1760,14 @@
         },
         {
           "rank": 14,
+          "name": "Nirvana",
+          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
+          "genres": [],
+          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        },
+        {
+          "rank": 15,
           "name": "Metallica",
           "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
           "genres": [],
@@ -1767,20 +1775,12 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "443RAVES",
           "image": "https://i.scdn.co/image/ab6761610000e5eb494a1e18a14cf7ba4ca462b9",
           "genres": [],
           "uri": "spotify:artist:5IMBlocOTKtuCKsxPmQi0Q",
           "url": "https://open.spotify.com/artist/5IMBlocOTKtuCKsxPmQi0Q"
-        },
-        {
-          "rank": 16,
-          "name": "Nirvana",
-          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [],
-          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
           "rank": 17,
@@ -1864,6 +1864,14 @@
         },
         {
           "rank": 27,
+          "name": "Playboi Carti",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+          "genres": [],
+          "uri": "spotify:artist:699OTQXzgjhIYAHMy9RyPD",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "rank": 28,
           "name": "emosl4t696",
           "image": "https://i.scdn.co/image/ab67616d0000b2735105c2120eb43e24d21ebe6c",
           "genres": [],
@@ -1871,20 +1879,12 @@
           "url": "https://open.spotify.com/artist/66Tanl5p5GUAUXoidpg4X6"
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "2hollis",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb9985019fc44017baaa671ab",
           "genres": [],
           "uri": "spotify:artist:72NhFAGG5Pt91VbheJeEPG",
           "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        },
-        {
-          "rank": 29,
-          "name": "Playboi Carti",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-          "genres": [],
-          "uri": "spotify:artist:699OTQXzgjhIYAHMy9RyPD",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         },
         {
           "rank": 30,

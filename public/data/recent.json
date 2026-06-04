@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T03:51:40.471Z",
+  "updated_at": "2026-06-04T09:54:24.849Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -567,6 +567,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27304480d4422fe67d383386660",
       "uri": "spotify:track:1xaTREM89RbIxkcjlpf4Uw",
       "duration_ms": 215760
+    },
+    {
+      "played_at": "2026-06-04T00:48:13.295Z",
+      "name": "7 Summers",
+      "artists": [
+        "Morgan Wallen"
+      ],
+      "album": "Dangerous: The Double Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+      "duration_ms": 210506
     }
   ]
 }
