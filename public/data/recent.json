@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T15:14:42.368Z",
+  "updated_at": "2026-06-05T17:14:08.310Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -1099,6 +1099,42 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
       "uri": "spotify:track:6r7ULK6c5CLVvImjTIztl1",
       "duration_ms": 93447
+    },
+    {
+      "played_at": "2026-06-05T17:03:07.081Z",
+      "name": "Spin on Him",
+      "artists": [
+        "Selune"
+      ],
+      "album": "Spin on Him",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730bf7f95dc64cb2328671e6de",
+      "uri": "spotify:track:4PowJnMHjl3wiGzXvpd8s7",
+      "duration_ms": 208620
+    },
+    {
+      "played_at": "2026-06-05T17:05:36.473Z",
+      "name": "Biggest O",
+      "artists": [
+        "frxsh"
+      ],
+      "album": "Biggest O",
+      "image": "https://i.scdn.co/image/ab67616d0000b273337d2e15e2974f75895eecfc",
+      "uri": "spotify:track:3w2biyaKtUAiFLO1FQ3v0o",
+      "duration_ms": 148943
+    },
+    {
+      "played_at": "2026-06-05T17:08:31.135Z",
+      "name": "BTB",
+      "artists": [
+        "Nesty Gzz",
+        "Rah Gzz",
+        "Assasin",
+        "Yus Gz"
+      ],
+      "album": "Moment Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ce4b94ce36273f65f9c7d33",
+      "uri": "spotify:track:3WH6oLmsCODF0Pi3l4Xxzn",
+      "duration_ms": 174230
     }
   ]
 }

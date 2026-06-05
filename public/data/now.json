@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-05T15:14:42.479Z",
-  "is_playing": false,
+  "updated_at": "2026-06-05T17:14:08.473Z",
+  "is_playing": true,
   "track": {
-    "name": "Floor 555",
+    "name": "I'm Not Alone - 2019 Edit",
     "artists": [
-      "XXXTENTACION"
+      "Calvin Harris"
     ],
-    "album": "?",
-    "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
-    "uri": "spotify:track:6r7ULK6c5CLVvImjTIztl1"
+    "album": "96 Months",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738daa8ac6367fc997c1873b9b",
+    "uri": "spotify:track:6zAUCritANdhceCMLVB8xR"
   },
-  "played_at": "2026-06-05T01:41:24.780Z"
+  "played_at": "2026-06-05T17:14:08.473Z"
 }
