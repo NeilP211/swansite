@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T16:04:51.583Z",
+  "updated_at": "2026-06-06T19:20:24.533Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -1444,6 +1444,430 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bef074de9ca825bddaeb9f46",
       "uri": "spotify:track:6qn9YLKt13AGvpq9jfO8py",
       "duration_ms": 215226
+    },
+    {
+      "played_at": "2026-06-06T16:06:16.567Z",
+      "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
+      "artists": [
+        "KETTAMA"
+      ],
+      "album": "Pretty Green Eyes (Sunset Ibiza Mix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273edcf69db6e31c9c69870cac7",
+      "uri": "spotify:track:3Q2RZh5dlBuqaeDIxPeieP",
+      "duration_ms": 258682
+    },
+    {
+      "played_at": "2026-06-06T16:08:57.339Z",
+      "name": "Tell Me What You Want",
+      "artists": [
+        "Oden & Fatzo",
+        "Poppy Baskcomb"
+      ],
+      "album": "Tell Me What You Want",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ca8f2b5e560e343d30cb0130",
+      "uri": "spotify:track:7pPMx57fvpINMYGE0eZFhp",
+      "duration_ms": 160314
+    },
+    {
+      "played_at": "2026-06-06T16:12:19.492Z",
+      "name": "Free Your Mind",
+      "artists": [
+        "Prospa",
+        "Cloonee"
+      ],
+      "album": "Free Your Mind",
+      "image": "https://i.scdn.co/image/ab67616d0000b27338974737cba5770d9dba1cd6",
+      "uri": "spotify:track:6TWbY1dq8eYtFiMiGdBlOa",
+      "duration_ms": 201700
+    },
+    {
+      "played_at": "2026-06-06T16:22:17.966Z",
+      "name": "Thinking About You (feat. Ayah Marar)",
+      "artists": [
+        "Calvin Harris",
+        "Ayah Marar"
+      ],
+      "album": "18 Months",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dcef905cb144d4867119850b",
+      "uri": "spotify:track:1KtD0xaLAikgIt5tPbteZQ",
+      "duration_ms": 247933
+    },
+    {
+      "played_at": "2026-06-06T16:25:35.842Z",
+      "name": "Bayside - Radio Edit",
+      "artists": [
+        "Obskür"
+      ],
+      "album": "Bayside",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736d0a73a9edddf869ccf517e6",
+      "uri": "spotify:track:7hYW4hKuPkfaLbzTpg9hQB",
+      "duration_ms": 197419
+    },
+    {
+      "played_at": "2026-06-06T16:29:10.052Z",
+      "name": "Gonna Be",
+      "artists": [
+        "Daniel Wolf"
+      ],
+      "album": "Gonna Be",
+      "image": "https://i.scdn.co/image/ab67616d0000b27316b74976c6894bebcbb80ee6",
+      "uri": "spotify:track:6JQmciUw1AXgMakHy1QFWv",
+      "duration_ms": 213750
+    },
+    {
+      "played_at": "2026-06-06T16:32:14.573Z",
+      "name": "Feel This Way",
+      "artists": [
+        "Josh Baker",
+        "Silva Bumpa",
+        "Paige Cavell"
+      ],
+      "album": "Feel This Way",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738a579aaccdd1ddc043d0a404",
+      "uri": "spotify:track:2libVw5xnVwelZ69K47bDz",
+      "duration_ms": 184085
+    },
+    {
+      "played_at": "2026-06-06T16:34:57.901Z",
+      "name": "Still Sleepless",
+      "artists": [
+        "D.O.D",
+        "Carla Monroe"
+      ],
+      "album": "Still Sleepless",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ce09321ad586bf258a394f43",
+      "uri": "spotify:track:4vyG9ZhHT8MKJE5mTICMFC",
+      "duration_ms": 162879
+    },
+    {
+      "played_at": "2026-06-06T16:37:37.184Z",
+      "name": "On 2nite",
+      "artists": [
+        "Silva Bumpa"
+      ],
+      "album": "On 2nite",
+      "image": "https://i.scdn.co/image/ab67616d0000b273df5399677b85e9f581bb9833",
+      "uri": "spotify:track:2BoSbGSp2OaDBOx5NFHkrr",
+      "duration_ms": 158848
+    },
+    {
+      "played_at": "2026-06-06T16:39:55.370Z",
+      "name": "GML (thank fuck it’s the weekend)",
+      "artists": [
+        "JACK MARLOW",
+        "Phantom Records"
+      ],
+      "album": "GML (thank fuck it’s the weekend)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e135e7324e7558126b297132",
+      "uri": "spotify:track:1ylAagblXaekleEan37UQR",
+      "duration_ms": 137694
+    },
+    {
+      "played_at": "2026-06-06T16:42:02.573Z",
+      "name": "Fake ID (Coke & Rum Remix)",
+      "artists": [
+        "Riton",
+        "Kah-Lo",
+        "GEE LEE"
+      ],
+      "album": "Fake ID (Coke & Rum Remix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db34c75eb1c6d446dc61e788",
+      "uri": "spotify:track:2VuzBUB5V9AlpniCUhaszP",
+      "duration_ms": 126720
+    },
+    {
+      "played_at": "2026-06-06T16:46:21.882Z",
+      "name": "Find My Way Home",
+      "artists": [
+        "Sammy Virji"
+      ],
+      "album": "Find My Way Home",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731cc9594eb4e8e4cc6aabe090",
+      "uri": "spotify:track:1yIi7qRdybE4yY1V0YdOKG",
+      "duration_ms": 258858
+    },
+    {
+      "played_at": "2026-06-06T16:53:21.517Z",
+      "name": "found you",
+      "artists": [
+        "HR",
+        "aobvr",
+        "ASYLVM"
+      ],
+      "album": "found you (versions)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f57428b2bb36c411881680d",
+      "uri": "spotify:track:3yt6DSmftXqjkv6iLYHO1m",
+      "duration_ms": 246149
+    },
+    {
+      "played_at": "2026-06-06T16:56:54.557Z",
+      "name": "Sweet Nothing (feat. Florence Welch)",
+      "artists": [
+        "Calvin Harris",
+        "Florence Welch"
+      ],
+      "album": "18 Months",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dcef905cb144d4867119850b",
+      "uri": "spotify:track:24LS4lQShWyixJ0ZrJXfJ5",
+      "duration_ms": 212560
+    },
+    {
+      "played_at": "2026-06-06T17:00:24.530Z",
+      "name": "Get To Me Once - Radio Edit",
+      "artists": [
+        "Matt Early",
+        "Ray Hurley",
+        "Abi Flynn"
+      ],
+      "album": "Get To Me Once",
+      "image": "https://i.scdn.co/image/ab67616d0000b273566ecdefc83d165dab1c741d",
+      "uri": "spotify:track:4Ip1jKkFI4TqoymQbqya3a",
+      "duration_ms": 209536
+    },
+    {
+      "played_at": "2026-06-06T17:03:24.634Z",
+      "name": "Serious",
+      "artists": [
+        "Obskür",
+        "Omar+"
+      ],
+      "album": "Serious",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730cfe52d6d3b07fbffc75fa6c",
+      "uri": "spotify:track:1XOJO5pe9p6beZDuP6UGvp",
+      "duration_ms": 179641
+    },
+    {
+      "played_at": "2026-06-06T17:06:20.930Z",
+      "name": "Fade - Grant Nelson Big Room Remix",
+      "artists": [
+        "Solu Music",
+        "KimBlee"
+      ],
+      "album": "Fade",
+      "image": "https://i.scdn.co/image/ab67616d0000b273723af9b9858d7b54d929b281",
+      "uri": "spotify:track:58XZDglLRsZClpg19mmqjz",
+      "duration_ms": 175840
+    },
+    {
+      "played_at": "2026-06-06T17:10:23.319Z",
+      "name": "So Many Times",
+      "artists": [
+        "Gadjo",
+        "Alexandra Prince"
+      ],
+      "album": "So Many Times",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ad7fd844fa43442abfa6fbec",
+      "uri": "spotify:track:5pBcAiIOgK12dxBSpKjulg",
+      "duration_ms": 241928
+    },
+    {
+      "played_at": "2026-06-06T17:14:09.245Z",
+      "name": "Something To Me",
+      "artists": [
+        "Josh Baker"
+      ],
+      "album": "Something To Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273adb958628df5dc75876892ee",
+      "uri": "spotify:track:2oCShkda3AnUzwPzZPvQyf",
+      "duration_ms": 225466
+    },
+    {
+      "played_at": "2026-06-06T17:17:26.616Z",
+      "name": "Who do u?",
+      "artists": [
+        "JACK MARLOW",
+        "Phantom Records"
+      ],
+      "album": "Who do u?",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350278aeaacd4286cf4c6cdcb",
+      "uri": "spotify:track:5oWfXmdrVX0AMwEdJ8iSBf",
+      "duration_ms": 196874
+    },
+    {
+      "played_at": "2026-06-06T17:20:25.395Z",
+      "name": "World, Hold On - FISHER Rework",
+      "artists": [
+        "Bob Sinclar",
+        "Steve Edwards",
+        "FISHER"
+      ],
+      "album": "World, Hold On (FISHER Rework)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+      "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1",
+      "duration_ms": 178304
+    },
+    {
+      "played_at": "2026-06-06T17:23:51.046Z",
+      "name": "Just For the Night",
+      "artists": [
+        "Shankz",
+        "javicanx"
+      ],
+      "album": "Just For the Night",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bdf383636c8661480a946e49",
+      "uri": "spotify:track:1QbVZ0ts3B4LRRCG1gO5v8",
+      "duration_ms": 205201
+    },
+    {
+      "played_at": "2026-06-06T17:26:46.316Z",
+      "name": "I Need You",
+      "artists": [
+        "TWOFACED",
+        "Nikita W."
+      ],
+      "album": "I Need You",
+      "image": "https://i.scdn.co/image/ab67616d0000b273922f280c3fcb7581a5d8a35f",
+      "uri": "spotify:track:2EMj2j03BtJeAmbfl7TeEr",
+      "duration_ms": 174818
+    },
+    {
+      "played_at": "2026-06-06T17:31:19.576Z",
+      "name": "Massive X Touch Me",
+      "artists": [
+        "NovaX",
+        "Sevven"
+      ],
+      "album": "Massive X Touch Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ccb850bd20e08b23ac40027f",
+      "uri": "spotify:track:5zIG9VMfmWbFWWF1CqeywA",
+      "duration_ms": 174160
+    },
+    {
+      "played_at": "2026-06-06T17:34:14.590Z",
+      "name": "u can get it",
+      "artists": [
+        "Soul Legend"
+      ],
+      "album": "u can get it",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308c39ac848047637be4b1379",
+      "uri": "spotify:track:3TgBBgdNupVOVKDVskdO0f",
+      "duration_ms": 174545
+    },
+    {
+      "played_at": "2026-06-06T17:37:49.340Z",
+      "name": "Paradise",
+      "artists": [
+        "Lewis Taylor"
+      ],
+      "album": "Paradise",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a4a592cc8d5385428d8f7b0",
+      "uri": "spotify:track:1mjJPwJaSnj1wMWazselPS",
+      "duration_ms": 214291
+    },
+    {
+      "played_at": "2026-06-06T17:41:12.369Z",
+      "name": "House Music Will Never Die",
+      "artists": [
+        "Tim Sanders"
+      ],
+      "album": "House Music Will Never Die",
+      "image": "https://i.scdn.co/image/ab67616d0000b273866aa8e175eb80b9d9e2d1fa",
+      "uri": "spotify:track:4K3DmvSqBEo8lG0OkQjL0B",
+      "duration_ms": 202570
+    },
+    {
+      "played_at": "2026-06-06T17:47:12.687Z",
+      "name": "Thinking About You (feat. Ayah Marar)",
+      "artists": [
+        "Calvin Harris",
+        "Ayah Marar"
+      ],
+      "album": "18 Months",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dcef905cb144d4867119850b",
+      "uri": "spotify:track:1KtD0xaLAikgIt5tPbteZQ",
+      "duration_ms": 247933
+    },
+    {
+      "played_at": "2026-06-06T17:49:47.022Z",
+      "name": "Too Much For Me",
+      "artists": [
+        "SELKER"
+      ],
+      "album": "Too Much For Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312a3e29808ad46283877a4d3",
+      "uri": "spotify:track:2MymczAULhpJYbgyXwwiyw",
+      "duration_ms": 153869
+    },
+    {
+      "played_at": "2026-06-06T17:55:09.552Z",
+      "name": "Pure Cocaine",
+      "artists": [
+        "Lil Baby"
+      ],
+      "album": "Street Gossip",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737cb0c4f7761f6dd66aaca065",
+      "uri": "spotify:track:577YBGuskWkVDCxZrLRB4v",
+      "duration_ms": 154023
+    },
+    {
+      "played_at": "2026-06-06T17:58:43.297Z",
+      "name": "Save That Shit",
+      "artists": [
+        "Chief Keef",
+        "Soulja Boy"
+      ],
+      "album": "Back from the Dead",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d12aac85fdc8f9eadeadd3fb",
+      "uri": "spotify:track:6ptNBM3aWWACAQqC4rgkmp",
+      "duration_ms": 213289
+    },
+    {
+      "played_at": "2026-06-06T18:01:25.806Z",
+      "name": "Freestyle",
+      "artists": [
+        "Lil Baby"
+      ],
+      "album": "Too Hard",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735067cc9332e2fdc69ea7b7a9",
+      "uri": "spotify:track:5BbdKBZO0TH0GhfxUfyhL9",
+      "duration_ms": 162053
+    },
+    {
+      "played_at": "2026-06-06T18:07:04.938Z",
+      "name": "Heather",
+      "artists": [
+        "4zz",
+        "GBG shiek",
+        "S9ine",
+        "Kyle Richh"
+      ],
+      "album": "Heather",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349438384ddb1d252e2732b92",
+      "uri": "spotify:track:6MBRAa2JUEQO1DcP6McjGl",
+      "duration_ms": 113963
+    },
+    {
+      "played_at": "2026-06-06T18:14:06.765Z",
+      "name": "Tennessee Whiskey",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "album": "Traveller",
+      "image": "https://i.scdn.co/image/ab67616d0000b273540fc1d083eac5bcff8dad21",
+      "uri": "spotify:track:3fqwjXwUGN6vbzIwvyFMhx",
+      "duration_ms": 293293
+    },
+    {
+      "played_at": "2026-06-06T18:17:42.496Z",
+      "name": "7 Summers",
+      "artists": [
+        "Morgan Wallen"
+      ],
+      "album": "Dangerous: The Double Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+      "uri": "spotify:track:58FbmtiyAlFBqFr8EorsSr",
+      "duration_ms": 210506
+    },
+    {
+      "played_at": "2026-06-06T18:20:36.033Z",
+      "name": "Picture To Burn",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "Taylor Swift",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c",
+      "uri": "spotify:track:32mVHdy0bi1XKgr0ajsBlG",
+      "duration_ms": 173066
     }
   ]
 }

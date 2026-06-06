@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T16:04:51.304Z",
+  "generated_at": "2026-06-06T19:20:24.161Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -78,18 +78,6 @@
         },
         {
           "rank": 7,
-          "name": "zombie",
-          "artists": [
-            "bleood"
-          ],
-          "album": "zombie",
-          "image": "https://i.scdn.co/image/ab67616d0000b273446f1382b3d4e93bf443da07",
-          "uri": "spotify:track:6sFJOF55VllzvXbN4fM5C2",
-          "url": "https://open.spotify.com/track/6sFJOF55VllzvXbN4fM5C2",
-          "duration_ms": 121573
-        },
-        {
-          "rank": 8,
           "name": "Too Much For Me",
           "artists": [
             "SELKER"
@@ -101,19 +89,19 @@
           "duration_ms": 153869
         },
         {
-          "rank": 9,
-          "name": "i aint start making money till i started doing drugs",
+          "rank": 8,
+          "name": "zombie",
           "artists": [
             "bleood"
           ],
-          "album": "PROTAGONIST",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738eabe1fe40434866f52fea76",
-          "uri": "spotify:track:5muSF5AFF7lTr1omCItecA",
-          "url": "https://open.spotify.com/track/5muSF5AFF7lTr1omCItecA",
-          "duration_ms": 107110
+          "album": "zombie",
+          "image": "https://i.scdn.co/image/ab67616d0000b273446f1382b3d4e93bf443da07",
+          "uri": "spotify:track:6sFJOF55VllzvXbN4fM5C2",
+          "url": "https://open.spotify.com/track/6sFJOF55VllzvXbN4fM5C2",
+          "duration_ms": 121573
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "GoOd Night",
           "artists": [
             "Nettspend"
@@ -123,6 +111,18 @@
           "uri": "spotify:track:4xZqHd5rnM3FE8QnYtAkDP",
           "url": "https://open.spotify.com/track/4xZqHd5rnM3FE8QnYtAkDP",
           "duration_ms": 109244
+        },
+        {
+          "rank": 10,
+          "name": "i aint start making money till i started doing drugs",
+          "artists": [
+            "bleood"
+          ],
+          "album": "PROTAGONIST",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738eabe1fe40434866f52fea76",
+          "uri": "spotify:track:5muSF5AFF7lTr1omCItecA",
+          "url": "https://open.spotify.com/track/5muSF5AFF7lTr1omCItecA",
+          "duration_ms": 107110
         },
         {
           "rank": 11,
@@ -141,6 +141,19 @@
         },
         {
           "rank": 12,
+          "name": "Massive X Touch Me",
+          "artists": [
+            "NovaX",
+            "Sevven"
+          ],
+          "album": "Massive X Touch Me",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ccb850bd20e08b23ac40027f",
+          "uri": "spotify:track:5zIG9VMfmWbFWWF1CqeywA",
+          "url": "https://open.spotify.com/track/5zIG9VMfmWbFWWF1CqeywA",
+          "duration_ms": 174160
+        },
+        {
+          "rank": 13,
           "name": "in china",
           "artists": [
             "Robin Gan"
@@ -152,7 +165,7 @@
           "duration_ms": 65061
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "FUNK DO MALAME AMARELO - Ultra Slowed",
           "artists": [
             "DJ XFOCOS",
@@ -166,7 +179,7 @@
           "duration_ms": 115296
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "I Don't Care",
           "artists": [
             "Jesp7Tearz"
@@ -178,7 +191,7 @@
           "duration_ms": 156300
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Risk",
           "artists": [
             "Gracie Abrams"
@@ -190,7 +203,7 @@
           "duration_ms": 191586
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Free Your Mind",
           "artists": [
             "Prospa",
@@ -201,18 +214,6 @@
           "uri": "spotify:track:6TWbY1dq8eYtFiMiGdBlOa",
           "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa",
           "duration_ms": 201700
-        },
-        {
-          "rank": 17,
-          "name": "GOOBA",
-          "artists": [
-            "6ix9ine"
-          ],
-          "album": "TattleTales",
-          "image": "https://i.scdn.co/image/ab67616d0000b27308c1c9cba7dc84118976e66d",
-          "uri": "spotify:track:2zvDnNLW4yZ4a0YcGiOEBX",
-          "url": "https://open.spotify.com/track/2zvDnNLW4yZ4a0YcGiOEBX",
-          "duration_ms": 132303
         },
         {
           "rank": 18,
@@ -253,19 +254,6 @@
         },
         {
           "rank": 21,
-          "name": "Massive X Touch Me",
-          "artists": [
-            "NovaX",
-            "Sevven"
-          ],
-          "album": "Massive X Touch Me",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ccb850bd20e08b23ac40027f",
-          "uri": "spotify:track:5zIG9VMfmWbFWWF1CqeywA",
-          "url": "https://open.spotify.com/track/5zIG9VMfmWbFWWF1CqeywA",
-          "duration_ms": 174160
-        },
-        {
-          "rank": 22,
           "name": "Отпусти меня",
           "artists": [
             "SEREBRO"
@@ -277,7 +265,32 @@
           "duration_ms": 232855
         },
         {
+          "rank": 22,
+          "name": "Fade - Grant Nelson Big Room Remix",
+          "artists": [
+            "Solu Music",
+            "KimBlee"
+          ],
+          "album": "Fade",
+          "image": "https://i.scdn.co/image/ab67616d0000b273723af9b9858d7b54d929b281",
+          "uri": "spotify:track:58XZDglLRsZClpg19mmqjz",
+          "url": "https://open.spotify.com/track/58XZDglLRsZClpg19mmqjz",
+          "duration_ms": 175840
+        },
+        {
           "rank": 23,
+          "name": "GOOBA",
+          "artists": [
+            "6ix9ine"
+          ],
+          "album": "TattleTales",
+          "image": "https://i.scdn.co/image/ab67616d0000b27308c1c9cba7dc84118976e66d",
+          "uri": "spotify:track:2zvDnNLW4yZ4a0YcGiOEBX",
+          "url": "https://open.spotify.com/track/2zvDnNLW4yZ4a0YcGiOEBX",
+          "duration_ms": 132303
+        },
+        {
+          "rank": 24,
           "name": "ur not - diff ver",
           "artists": [
             "idully"
@@ -289,7 +302,7 @@
           "duration_ms": 88842
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "I'm Not Alone - 2019 Edit",
           "artists": [
             "Calvin Harris"
@@ -301,7 +314,7 @@
           "duration_ms": 201313
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "real music",
           "artists": [
             "Robin Gan"
@@ -313,7 +326,7 @@
           "duration_ms": 50061
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Fade To Black - Remastered",
           "artists": [
             "Metallica"
@@ -325,7 +338,7 @@
           "duration_ms": 417226
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Yung Nigga Shit",
           "artists": [
             "Glokk40Spaz",
@@ -336,19 +349,6 @@
           "uri": "spotify:track:3VgJCsJK7hJr8YJOwI6GeO",
           "url": "https://open.spotify.com/track/3VgJCsJK7hJr8YJOwI6GeO",
           "duration_ms": 135510
-        },
-        {
-          "rank": 28,
-          "name": "Fade - Grant Nelson Big Room Remix",
-          "artists": [
-            "Solu Music",
-            "KimBlee"
-          ],
-          "album": "Fade",
-          "image": "https://i.scdn.co/image/ab67616d0000b273723af9b9858d7b54d929b281",
-          "uri": "spotify:track:58XZDglLRsZClpg19mmqjz",
-          "url": "https://open.spotify.com/track/58XZDglLRsZClpg19mmqjz",
-          "duration_ms": 175840
         },
         {
           "rank": 29,
@@ -388,6 +388,20 @@
         },
         {
           "rank": 32,
+          "name": "World, Hold On - FISHER Rework",
+          "artists": [
+            "Bob Sinclar",
+            "Steve Edwards",
+            "FISHER"
+          ],
+          "album": "World, Hold On (FISHER Rework)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c272f11aee228a5089cb4501",
+          "uri": "spotify:track:6ryWXzeSbDX5cebOrgjMKL",
+          "url": "https://open.spotify.com/track/6ryWXzeSbDX5cebOrgjMKL",
+          "duration_ms": 178304
+        },
+        {
+          "rank": 33,
           "name": "lilacs - slowed",
           "artists": [
             "azrxel",
@@ -400,7 +414,7 @@
           "duration_ms": 70866
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Show Them All",
           "artists": [
             "La Capella"
@@ -412,7 +426,7 @@
           "duration_ms": 170808
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "dare",
           "artists": [
             "ksuuvi"
@@ -424,7 +438,7 @@
           "duration_ms": 100205
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "YEET (feat. Yeat)",
           "artists": [
             "Yung Kayo",
@@ -437,7 +451,22 @@
           "duration_ms": 157714
         },
         {
-          "rank": 36,
+          "rank": 37,
+          "name": "Heather",
+          "artists": [
+            "4zz",
+            "GBG shiek",
+            "S9ine",
+            "Kyle Richh"
+          ],
+          "album": "Heather",
+          "image": "https://i.scdn.co/image/ab67616d0000b27349438384ddb1d252e2732b92",
+          "uri": "spotify:track:6MBRAa2JUEQO1DcP6McjGl",
+          "url": "https://open.spotify.com/track/6MBRAa2JUEQO1DcP6McjGl",
+          "duration_ms": 113963
+        },
+        {
+          "rank": 38,
           "name": "Tennis Court",
           "artists": [
             "Lorde"
@@ -449,7 +478,7 @@
           "duration_ms": 198907
         },
         {
-          "rank": 37,
+          "rank": 39,
           "name": "É Tuf Tuf Pof Pof Vapo Vapo o Dia Inteiro",
           "artists": [
             "Dj Olliver",
@@ -462,7 +491,7 @@
           "duration_ms": 173538
         },
         {
-          "rank": 38,
+          "rank": 40,
           "name": "MONTAGEM TEM QUE TIRAR O CHAPEU - Super Slowed",
           "artists": [
             "0to8",
@@ -476,7 +505,7 @@
           "duration_ms": 71205
         },
         {
-          "rank": 39,
+          "rank": 41,
           "name": "WDYM",
           "artists": [
             "revided"
@@ -488,19 +517,7 @@
           "duration_ms": 135262
         },
         {
-          "rank": 40,
-          "name": "Feeliinuu",
-          "artists": [
-            "Nettspend"
-          ],
-          "album": "Feeliinuu",
-          "image": "https://i.scdn.co/image/ab67616d0000b273198e1d57a6e2aba4a591ae62",
-          "uri": "spotify:track:0WR4Bo24zWRujhjrof1tJS",
-          "url": "https://open.spotify.com/track/0WR4Bo24zWRujhjrof1tJS",
-          "duration_ms": 71726
-        },
-        {
-          "rank": 41,
+          "rank": 42,
           "name": "Saka Saka Saka Phonk Slowed + Reverb - Remix",
           "artists": [
             "MC Mazzie",
@@ -515,7 +532,7 @@
           "duration_ms": 219036
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Spin on Him",
           "artists": [
             "Selune"
@@ -525,20 +542,6 @@
           "uri": "spotify:track:4PowJnMHjl3wiGzXvpd8s7",
           "url": "https://open.spotify.com/track/4PowJnMHjl3wiGzXvpd8s7",
           "duration_ms": 208620
-        },
-        {
-          "rank": 43,
-          "name": "World, Hold On - FISHER Rework",
-          "artists": [
-            "Bob Sinclar",
-            "Steve Edwards",
-            "FISHER"
-          ],
-          "album": "World, Hold On (FISHER Rework)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c272f11aee228a5089cb4501",
-          "uri": "spotify:track:6ryWXzeSbDX5cebOrgjMKL",
-          "url": "https://open.spotify.com/track/6ryWXzeSbDX5cebOrgjMKL",
-          "duration_ms": 178304
         },
         {
           "rank": 44,
@@ -554,6 +557,19 @@
         },
         {
           "rank": 45,
+          "name": "Sweet Nothing (feat. Florence Welch)",
+          "artists": [
+            "Calvin Harris",
+            "Florence Welch"
+          ],
+          "album": "18 Months",
+          "image": "https://i.scdn.co/image/ab67616d0000b273dcef905cb144d4867119850b",
+          "uri": "spotify:track:24LS4lQShWyixJ0ZrJXfJ5",
+          "url": "https://open.spotify.com/track/24LS4lQShWyixJ0ZrJXfJ5",
+          "duration_ms": 212560
+        },
+        {
+          "rank": 46,
           "name": "Faded",
           "artists": [
             "Alan Walker"
@@ -563,21 +579,6 @@
           "uri": "spotify:track:698ItKASDavgwZ3WjaWjtz",
           "url": "https://open.spotify.com/track/698ItKASDavgwZ3WjaWjtz",
           "duration_ms": 212106
-        },
-        {
-          "rank": 46,
-          "name": "Heather",
-          "artists": [
-            "4zz",
-            "GBG shiek",
-            "S9ine",
-            "Kyle Richh"
-          ],
-          "album": "Heather",
-          "image": "https://i.scdn.co/image/ab67616d0000b27349438384ddb1d252e2732b92",
-          "uri": "spotify:track:6MBRAa2JUEQO1DcP6McjGl",
-          "url": "https://open.spotify.com/track/6MBRAa2JUEQO1DcP6McjGl",
-          "duration_ms": 113963
         },
         {
           "rank": 47,
@@ -633,10 +634,7 @@
           "rank": 1,
           "name": "bleood",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
-          "genres": [
-            "rage rap",
-            "underground hip hop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:41GfvEtCZu3KXaThpF01c1",
           "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
         },
@@ -650,28 +648,19 @@
         },
         {
           "rank": 3,
-          "name": "Nettspend",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
-          "genres": [
-            "rage rap",
-            "underground hip hop"
-          ],
-          "uri": "spotify:artist:2jl4qd6UbzeCmImT4nWbtA",
-          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+          "name": "Metallica",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+          "genres": [],
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "rank": 4,
-          "name": "Metallica",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [
-            "metal",
-            "thrash metal",
-            "rock",
-            "heavy metal",
-            "hard rock"
-          ],
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Nettspend",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
+          "genres": [],
+          "uri": "spotify:artist:2jl4qd6UbzeCmImT4nWbtA",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
         },
         {
           "rank": 5,
@@ -685,9 +674,7 @@
           "rank": 6,
           "name": "Tevvez",
           "image": "https://i.scdn.co/image/ab6761610000e5eb203b3c4b6017146c6ceae2c3",
-          "genres": [
-            "hardstyle"
-          ],
+          "genres": [],
           "uri": "spotify:artist:3ZaPFQ05J5qSM5I3Smbp44",
           "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
         },
@@ -701,18 +688,22 @@
         },
         {
           "rank": 8,
+          "name": "Calvin Harris",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
+          "genres": [],
+          "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "rank": 9,
           "name": "Sherine",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1fa228ebdfdbd596bfa1bd77",
-          "genres": [
-            "egyptian pop",
-            "sholawat",
-            "khaleeji"
-          ],
+          "genres": [],
           "uri": "spotify:artist:2Wk167T0fY1fABsHM5qFcI",
           "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Taylor Swift",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
           "genres": [],
@@ -720,23 +711,10 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "rank": 10,
-          "name": "Calvin Harris",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
-          "genres": [
-            "edm"
-          ],
-          "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
           "rank": 11,
           "name": "xaviersobased",
           "image": "https://i.scdn.co/image/ab6761610000e5eb837aeb70fbd21f9587dab56e",
-          "genres": [
-            "cloud rap",
-            "underground hip hop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:2oM7LMPFu882oC6jSwEqjd",
           "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
         },
@@ -744,10 +722,7 @@
           "rank": 12,
           "name": "phreshboyswag",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2c02a9af1a85a1d5c1318b99",
-          "genres": [
-            "underground hip hop",
-            "cloud rap"
-          ],
+          "genres": [],
           "uri": "spotify:artist:0t9kdK9L3xwr7T2xt8G80H",
           "url": "https://open.spotify.com/artist/0t9kdK9L3xwr7T2xt8G80H"
         },
@@ -755,34 +730,20 @@
           "rank": 13,
           "name": "boolymon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb30034dd53574f8093b2ed96a",
-          "genres": [
-            "underground hip hop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:0T4s3xc50BkYsAvK2tV9cd",
           "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
         },
         {
           "rank": 14,
-          "name": "Ken Carson",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
-          "genres": [
-            "rage rap"
-          ],
-          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "rank": 15,
           "name": "idully",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9e2d06fd1b7b922d22169ff1",
-          "genres": [
-            "rage rap"
-          ],
+          "genres": [],
           "uri": "spotify:artist:0jvOetHbQcolGZtM6YjB2q",
           "url": "https://open.spotify.com/artist/0jvOetHbQcolGZtM6YjB2q"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "443RAVES",
           "image": "https://i.scdn.co/image/ab6761610000e5eb494a1e18a14cf7ba4ca462b9",
           "genres": [],
@@ -790,25 +751,28 @@
           "url": "https://open.spotify.com/artist/5IMBlocOTKtuCKsxPmQi0Q"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
-          "genres": [
-            "witch house",
-            "electroclash",
-            "new rave",
-            "alternative dance"
-          ],
+          "genres": [],
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Slimepayn",
           "image": "https://i.scdn.co/image/ab6761610000e5eb43671f8ac2608d0910785244",
           "genres": [],
           "uri": "spotify:artist:1hnOHbtzWUFwmZIs5mw93j",
           "url": "https://open.spotify.com/artist/1hnOHbtzWUFwmZIs5mw93j"
+        },
+        {
+          "rank": 18,
+          "name": "Ken Carson",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
+          "genres": [],
+          "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
           "rank": 19,
@@ -822,11 +786,7 @@
           "rank": 20,
           "name": "Fadel Chaker",
           "image": "https://i.scdn.co/image/ab6761610000e5ebefc1fc78f05677fb9950f11f",
-          "genres": [
-            "khaleeji",
-            "egyptian pop",
-            "sholawat"
-          ],
+          "genres": [],
           "uri": "spotify:artist:1LljnS3oumQ36wdBhkPKrs",
           "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
         },
@@ -834,57 +794,68 @@
           "rank": 21,
           "name": "eMu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb27b6e1a30da2892ca080e934",
-          "genres": [
-            "tekno"
-          ],
+          "genres": [],
           "uri": "spotify:artist:09N69PfV837oDhu5Uo49vg",
           "url": "https://open.spotify.com/artist/09N69PfV837oDhu5Uo49vg"
         },
         {
           "rank": 22,
+          "name": "D.O.D",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb74cf50aa63068966ceebe8ff",
+          "genres": [],
+          "uri": "spotify:artist:0Cs47vvRsPgEfliBU9KDiB",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "rank": 23,
           "name": "Lamis Kan",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8c376f8575e923a875095143",
-          "genres": [
-            "egyptian pop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:4jmo0EdvNDABmNDmPmKhMj",
           "url": "https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Che",
           "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
-          "genres": [
-            "rage rap",
-            "underground hip hop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:5A7T1LAGJg5NXySBoIKUmF",
           "url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Pastel Ghost",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4e214c2e956d00c02e81e3e",
-          "genres": [
-            "witch house",
-            "darkwave"
-          ],
+          "genres": [],
           "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
           "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Lady Gaga",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
-          "genres": [
-            "art pop",
-            "pop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "rank": 26,
+          "rank": 27,
+          "name": "Swedish House Mafia",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb9614fcf985ad6fc5b4a7c3de",
+          "genres": [],
+          "uri": "spotify:artist:1h6Cn3P4NGzXbaXidqURXs",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "rank": 28,
+          "name": "Obskür",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6e43c2a100516226fe97ec94",
+          "genres": [],
+          "uri": "spotify:artist:29MTNlaVntQaQiDyj8KGwx",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        },
+        {
+          "rank": 29,
           "name": "Tay-K",
           "image": "https://i.scdn.co/image/ab6761610000e5eb235f4cc5e342ec8ff002ea74",
           "genres": [],
@@ -892,19 +863,15 @@
           "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
         },
         {
-          "rank": 27,
+          "rank": 30,
           "name": "VØJ",
           "image": "https://i.scdn.co/image/ab6761610000e5eb560279a9a9ca93d0873677fe",
-          "genres": [
-            "phonk",
-            "synthwave",
-            "drift phonk"
-          ],
+          "genres": [],
           "uri": "spotify:artist:4KRllJ2dEeoqvxOQLOgOsI",
           "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
         },
         {
-          "rank": 28,
+          "rank": 31,
           "name": "emoslut666",
           "image": "https://i.scdn.co/image/ab67616d0000b273a4ca7107da24cc140e527194",
           "genres": [],
@@ -912,61 +879,63 @@
           "url": "https://open.spotify.com/artist/4UYmYu83rr6K8XKURSLeYn"
         },
         {
-          "rank": 29,
+          "rank": 32,
+          "name": "Josh Baker",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe5cc0458e5c13ef8ab6c2441",
+          "genres": [],
+          "uri": "spotify:artist:4zf8Awb8y1X9qwL4oiVRd6",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "rank": 33,
           "name": "Mqx",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbc15c0cdd5f133cc8d291adb",
-          "genres": [
-            "hardstyle"
-          ],
+          "genres": [],
           "uri": "spotify:artist:59o1kyNFOv04hcGRuWhWs9",
           "url": "https://open.spotify.com/artist/59o1kyNFOv04hcGRuWhWs9"
         },
         {
-          "rank": 30,
+          "rank": 34,
           "name": "Øneheart",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf7d840dfd8e04ed802d1587c",
-          "genres": [
-            "dark ambient",
-            "ambient"
-          ],
+          "genres": [],
           "uri": "spotify:artist:0dgJbQ0bKPyUXco8hEXN7X",
           "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
         },
         {
-          "rank": 31,
+          "rank": 35,
           "name": "OsamaSon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
-          "genres": [
-            "rage rap",
-            "underground hip hop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:0uj6QiPsPfK8ywLC7uwBE1",
           "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
         },
         {
-          "rank": 32,
+          "rank": 36,
           "name": "Mareux",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
-          "genres": [
-            "darkwave",
-            "cold wave"
-          ],
+          "genres": [],
           "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo",
           "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
         },
         {
-          "rank": 33,
+          "rank": 37,
           "name": "DJ TLS DA ZL",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdf082c01172b77968b88e447",
-          "genres": [
-            "phonk",
-            "brazilian phonk"
-          ],
+          "genres": [],
           "uri": "spotify:artist:5x1JvGRAKa8f06JxguX7nK",
           "url": "https://open.spotify.com/artist/5x1JvGRAKa8f06JxguX7nK"
         },
         {
-          "rank": 34,
+          "rank": 38,
+          "name": "Kyle Richh",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb266423de5bf188f7d21a9589",
+          "genres": [],
+          "uri": "spotify:artist:0hF6lbAjRsq4svrQUr5sgU",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "rank": 39,
           "name": "ian",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfc581edb6be35aef436062f8",
           "genres": [],
@@ -974,28 +943,15 @@
           "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
         },
         {
-          "rank": 35,
-          "name": "Lil Tecca",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
-          "genres": [
-            "melodic rap",
-            "rap"
-          ],
-          "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "rank": 36,
+          "rank": 40,
           "name": "Maul",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfcb3adb3c616ceb7772befd5",
-          "genres": [
-            "hardstyle"
-          ],
+          "genres": [],
           "uri": "spotify:artist:4xTRZ0A9NyJ8f1Nzm01vRU",
           "url": "https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU"
         },
         {
-          "rank": 37,
+          "rank": 41,
           "name": "NBSPLV",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8556811e8509d9acbf42140",
           "genres": [],
@@ -1003,51 +959,39 @@
           "url": "https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa"
         },
         {
-          "rank": 38,
+          "rank": 42,
           "name": "Paramore",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
-          "genres": [
-            "pop punk",
-            "emo"
-          ],
+          "genres": [],
           "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF",
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         },
         {
-          "rank": 39,
+          "rank": 43,
           "name": "LXNGVX",
           "image": "https://i.scdn.co/image/ab6761610000e5eb06816cd2ea944b75c33e1fc6",
-          "genres": [
-            "phonk",
-            "brazilian phonk"
-          ],
+          "genres": [],
           "uri": "spotify:artist:5IpS1TN1Crp8Ym4zjiIrtK",
           "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
         },
         {
-          "rank": 40,
+          "rank": 44,
           "name": "my head is empty",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4b6030be2875fe6f412ddac9",
-          "genres": [
-            "dark ambient",
-            "ambient"
-          ],
+          "genres": [],
           "uri": "spotify:artist:7pxIYxdkx2675ZGKSAPBAy",
           "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
         },
         {
-          "rank": 41,
+          "rank": 45,
           "name": "DJ ZRED DA DZ7",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1d59318b906debbba83cf1e1",
-          "genres": [
-            "phonk",
-            "brazilian phonk"
-          ],
+          "genres": [],
           "uri": "spotify:artist:2OROoLDJ1AgO6H0lNxI931",
           "url": "https://open.spotify.com/artist/2OROoLDJ1AgO6H0lNxI931"
         },
         {
-          "rank": 42,
+          "rank": 46,
           "name": "nettspend 2",
           "image": "https://i.scdn.co/image/ab6761610000e5eb89d953d93f5653cca4926518",
           "genres": [],
@@ -1055,18 +999,15 @@
           "url": "https://open.spotify.com/artist/2pvOFmTTXn440P9H5zot6f"
         },
         {
-          "rank": 43,
+          "rank": 47,
           "name": "Anar",
           "image": "https://i.scdn.co/image/ab6761610000e5eb022f67a7f4f780280cf53954",
-          "genres": [
-            "phonk",
-            "brazilian phonk"
-          ],
+          "genres": [],
           "uri": "spotify:artist:4C5EDmZfgkkSwUVFSvuUNP",
           "url": "https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP"
         },
         {
-          "rank": 44,
+          "rank": 48,
           "name": "C418",
           "image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
           "genres": [],
@@ -1074,64 +1015,20 @@
           "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
         },
         {
-          "rank": 45,
+          "rank": 49,
           "name": "0to8",
           "image": "https://i.scdn.co/image/ab6761610000e5ebde5cf19be07f368f4531ba22",
-          "genres": [
-            "phonk",
-            "brazilian phonk"
-          ],
+          "genres": [],
           "uri": "spotify:artist:5MQG067ASfGn0Cf1nE0S8g",
           "url": "https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g"
         },
         {
-          "rank": 46,
+          "rank": 50,
           "name": "The Chainsmokers",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4567279fac84a0375c3d819b",
           "genres": [],
           "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp",
           "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "rank": 47,
-          "name": "MC Mazzie",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebbdc6627588434c4d083fdbff",
-          "genres": [
-            "brazilian phonk",
-            "phonk"
-          ],
-          "uri": "spotify:artist:05bZ3QOlK7vfflzspO0Jk5",
-          "url": "https://open.spotify.com/artist/05bZ3QOlK7vfflzspO0Jk5"
-        },
-        {
-          "rank": 48,
-          "name": "D.O.D",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb74cf50aa63068966ceebe8ff",
-          "genres": [
-            "house"
-          ],
-          "uri": "spotify:artist:0Cs47vvRsPgEfliBU9KDiB",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "rank": 49,
-          "name": "Nancy Ajram",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb1c81429c45fb96c751f55313",
-          "genres": [
-            "egyptian pop",
-            "khaleeji",
-            "sholawat"
-          ],
-          "uri": "spotify:artist:0LnHdW6HMPoOlNdhG3DHjE",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
-        },
-        {
-          "rank": 50,
-          "name": "Lorde",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebaa69380a8d5203257611662d",
-          "genres": [],
-          "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ]
     },
@@ -2262,6 +2159,18 @@
         },
         {
           "rank": 9,
+          "name": "That’s So True",
+          "artists": [
+            "Gracie Abrams"
+          ],
+          "album": "The Secret of Us (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+          "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+          "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad",
+          "duration_ms": 166300
+        },
+        {
+          "rank": 10,
           "name": "I Don't Care",
           "artists": [
             "Jesp7Tearz"
@@ -2273,7 +2182,7 @@
           "duration_ms": 156300
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "My Own Summer (Shove It)",
           "artists": [
             "Deftones"
@@ -2283,18 +2192,6 @@
           "uri": "spotify:track:1158ckiB5S4cpsdYHDB9IF",
           "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF",
           "duration_ms": 214760
-        },
-        {
-          "rank": 11,
-          "name": "That’s So True",
-          "artists": [
-            "Gracie Abrams"
-          ],
-          "album": "The Secret of Us (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
-          "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
-          "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad",
-          "duration_ms": 166300
         },
         {
           "rank": 12,
@@ -2432,6 +2329,18 @@
         },
         {
           "rank": 23,
+          "name": "Spin on Him",
+          "artists": [
+            "Selune"
+          ],
+          "album": "Spin on Him",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730bf7f95dc64cb2328671e6de",
+          "uri": "spotify:track:4PowJnMHjl3wiGzXvpd8s7",
+          "url": "https://open.spotify.com/track/4PowJnMHjl3wiGzXvpd8s7",
+          "duration_ms": 208620
+        },
+        {
+          "rank": 24,
           "name": "HER0INE",
           "artists": [
             "AD0RKEN"
@@ -2443,7 +2352,7 @@
           "duration_ms": 60649
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "jaded",
           "artists": [
             "xaviersobased"
@@ -2455,7 +2364,7 @@
           "duration_ms": 112733
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "insane",
           "artists": [
             "rommulas"
@@ -2467,7 +2376,7 @@
           "duration_ms": 176516
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "1c in tha cut 2",
           "artists": [
             "xaviersobased"
@@ -2479,7 +2388,7 @@
           "duration_ms": 75807
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Feeliinuu",
           "artists": [
             "Nettspend"
@@ -2491,7 +2400,7 @@
           "duration_ms": 71726
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Sad Girl",
           "artists": [
             "Lana Del Rey"
@@ -2503,7 +2412,7 @@
           "duration_ms": 317760
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "run run run",
           "artists": [
             "rebug"
@@ -2515,7 +2424,7 @@
           "duration_ms": 79464
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Necrotic Bimbatitis",
           "artists": [
             "Bimb0nicplague"
@@ -2525,18 +2434,6 @@
           "uri": "spotify:track:7nC11rmbnep471LADThi9L",
           "url": "https://open.spotify.com/track/7nC11rmbnep471LADThi9L",
           "duration_ms": 232000
-        },
-        {
-          "rank": 31,
-          "name": "Spin on Him",
-          "artists": [
-            "Selune"
-          ],
-          "album": "Spin on Him",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730bf7f95dc64cb2328671e6de",
-          "uri": "spotify:track:4PowJnMHjl3wiGzXvpd8s7",
-          "url": "https://open.spotify.com/track/4PowJnMHjl3wiGzXvpd8s7",
-          "duration_ms": 208620
         },
         {
           "rank": 32,
@@ -2873,6 +2770,14 @@
         },
         {
           "rank": 13,
+          "name": "bleood",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
+          "genres": [],
+          "uri": "spotify:artist:41GfvEtCZu3KXaThpF01c1",
+          "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
+        },
+        {
+          "rank": 14,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
@@ -2880,20 +2785,12 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Ken Carson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
           "genres": [],
           "uri": "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "rank": 15,
-          "name": "bleood",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
-          "genres": [],
-          "uri": "spotify:artist:41GfvEtCZu3KXaThpF01c1",
-          "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
         },
         {
           "rank": 16,
@@ -3057,6 +2954,14 @@
         },
         {
           "rank": 36,
+          "name": "Calvin Harris",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
+          "genres": [],
+          "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "rank": 37,
           "name": "Gutter Whore",
           "image": "https://i.scdn.co/image/ab6761610000e5eb414eb1b4dcdef93a163f2e99",
           "genres": [],
@@ -3064,7 +2969,7 @@
           "url": "https://open.spotify.com/artist/09TAxArvBAjqTaVBE7viuU"
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Boy Fantasy",
           "image": "https://i.scdn.co/image/ab6761610000e5ebffe6ca1d41f75558a9678c89",
           "genres": [],
@@ -3072,7 +2977,7 @@
           "url": "https://open.spotify.com/artist/6TNu2GG0r5FZXtSvdGcLsY"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Snow Strippers",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2949c67f381d533010389d6a",
           "genres": [],
@@ -3080,7 +2985,7 @@
           "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "STAKILLAZ",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb71d233f498560de3efadeb2",
           "genres": [],
@@ -3088,7 +2993,7 @@
           "url": "https://open.spotify.com/artist/44tWGthIqM3mm0ngpslGO9"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "XXXTENTACION",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf0c20db5ef6c6fbe5135d2e4",
           "genres": [],
@@ -3096,7 +3001,7 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "ksuuvi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb899f0043b45f84882bb3ef18",
           "genres": [],
@@ -3104,7 +3009,7 @@
           "url": "https://open.spotify.com/artist/7MYVlTfQYFOVKftHoiwO5b"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "KREZUS",
           "image": "https://i.scdn.co/image/ab6761610000e5eb07e2acaea6d6c4a9bdc4a38e",
           "genres": [],
@@ -3112,7 +3017,7 @@
           "url": "https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Ellie Goulding",
           "image": "https://i.scdn.co/image/ab6761610000e5eb70a7b5f0ee7b18d2f2cc8d74",
           "genres": [],
@@ -3120,7 +3025,7 @@
           "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "AD0RKEN",
           "image": "https://i.scdn.co/image/ab6761610000e5eb50530921aac2374859f68387",
           "genres": [],
@@ -3128,7 +3033,7 @@
           "url": "https://open.spotify.com/artist/3hzTZv4BMkYpMnMinNzd9Y"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "La Capella",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb06dfb9da683cca4f01fd312",
           "genres": [],
@@ -3136,20 +3041,12 @@
           "url": "https://open.spotify.com/artist/4mP87yxki6BtYCjIMwOJsg"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "emosl4t696",
           "image": "https://i.scdn.co/image/ab67616d0000b2735105c2120eb43e24d21ebe6c",
           "genres": [],
           "uri": "spotify:artist:66Tanl5p5GUAUXoidpg4X6",
           "url": "https://open.spotify.com/artist/66Tanl5p5GUAUXoidpg4X6"
-        },
-        {
-          "rank": 47,
-          "name": "Calvin Harris",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8ebba5e60113b48de8c11f6b",
-          "genres": [],
-          "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
           "rank": 48,
@@ -3179,56 +3076,7 @@
     }
   },
   "genres": {
-    "short_term": [
-      {
-        "genre": "underground hip hop",
-        "weight": 0.1461923290717065
-      },
-      {
-        "genre": "rage rap",
-        "weight": 0.1217342968315731
-      },
-      {
-        "genre": "egyptian pop",
-        "weight": 0.058365758754863814
-      },
-      {
-        "genre": "hardstyle",
-        "weight": 0.045580878265703166
-      },
-      {
-        "genre": "phonk",
-        "weight": 0.045580878265703166
-      },
-      {
-        "genre": "cloud rap",
-        "weight": 0.04391328515842134
-      },
-      {
-        "genre": "sholawat",
-        "weight": 0.042245692051139525
-      },
-      {
-        "genre": "khaleeji",
-        "weight": 0.042245692051139525
-      },
-      {
-        "genre": "witch house",
-        "weight": 0.0339077265147304
-      },
-      {
-        "genre": "brazilian phonk",
-        "weight": 0.032240133407448586
-      },
-      {
-        "genre": "metal",
-        "weight": 0.02612562534741523
-      },
-      {
-        "genre": "thrash metal",
-        "weight": 0.02612562534741523
-      }
-    ],
+    "short_term": [],
     "medium_term": [],
     "long_term": []
   }

@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-06T16:04:51.683Z",
-  "is_playing": true,
+  "updated_at": "2026-06-06T19:20:24.568Z",
+  "is_playing": false,
   "track": {
-    "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
+    "name": "Picture To Burn",
     "artists": [
-      "KETTAMA"
+      "Taylor Swift"
     ],
-    "album": "Pretty Green Eyes (Sunset Ibiza Mix)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273edcf69db6e31c9c69870cac7",
-    "uri": "spotify:track:3Q2RZh5dlBuqaeDIxPeieP"
+    "album": "Taylor Swift",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c",
+    "uri": "spotify:track:32mVHdy0bi1XKgr0ajsBlG"
   },
-  "played_at": "2026-06-06T16:04:51.683Z"
+  "played_at": "2026-06-06T18:20:36.033Z"
 }
