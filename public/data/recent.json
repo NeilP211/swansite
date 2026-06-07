@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T03:43:30.782Z",
+  "updated_at": "2026-06-07T08:54:07.517Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -2110,6 +2110,52 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
       "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
       "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-06-07T04:05:44.679Z",
+      "name": "Is Ya Ready",
+      "artists": [
+        "Kay Flock"
+      ],
+      "album": "Is Ya Ready",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c9aabbfc07a0bb420a27a6b6",
+      "uri": "spotify:track:2QXWdzWLvRZToFFyY49Exz",
+      "duration_ms": 124513
+    },
+    {
+      "played_at": "2026-06-07T04:08:57.447Z",
+      "name": "Off the Mud Pt. 2",
+      "artists": [
+        "Jb sleeze",
+        "mdot ebk",
+        "eddie gz"
+      ],
+      "album": "Off the Mud Pt. 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b7001a4ec2c754f4b1d1b80c",
+      "uri": "spotify:track:5iNTCutenYZ1y09cjJvj10",
+      "duration_ms": 192319
+    },
+    {
+      "played_at": "2026-06-07T04:17:09.840Z",
+      "name": "Anti",
+      "artists": [
+        "SOB X RBE"
+      ],
+      "album": "SOB X RBE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733e99fa27b7d4dd38d9e435c7",
+      "uri": "spotify:track:3BVC9lRwjgKrWwDxgFAKA8",
+      "duration_ms": 169017
+    },
+    {
+      "played_at": "2026-06-07T04:21:31.922Z",
+      "name": "Nun Major",
+      "artists": [
+        "Shoreline Mafia"
+      ],
+      "album": "ShorelineDoThatShit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b",
+      "uri": "spotify:track:18pwD0HrweX8oCgIkayRb4",
+      "duration_ms": 151836
     }
   ]
 }
