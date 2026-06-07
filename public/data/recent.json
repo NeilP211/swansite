@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T19:20:32.380Z",
+  "updated_at": "2026-06-07T22:02:31.466Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -2179,6 +2179,146 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736abc7b1d4d7fa509bb7ee2f6",
       "uri": "spotify:track:1LepWHpwtahzEQL0vNjpEt",
       "duration_ms": 159500
+    },
+    {
+      "played_at": "2026-06-07T17:25:39.285Z",
+      "name": "Just The Way You Are",
+      "artists": [
+        "Milky",
+        "Mall Grab"
+      ],
+      "album": "Just The Way You Are",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736abc7b1d4d7fa509bb7ee2f6",
+      "uri": "spotify:track:1LepWHpwtahzEQL0vNjpEt",
+      "duration_ms": 159500
+    },
+    {
+      "played_at": "2026-06-07T21:28:26.552Z",
+      "name": "FUNK DO MALAME AMARELO - Ultra Slowed",
+      "artists": [
+        "DJ XFOCOS",
+        "DJ ZXN DA 077",
+        "DJ LKS DA ZS"
+      ],
+      "album": "FUNK DO MALAME AMARELO",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732c887d470360bda258ee19c0",
+      "uri": "spotify:track:3lJ3mblBvLWDhrzi1qxh05",
+      "duration_ms": 115296
+    },
+    {
+      "played_at": "2026-06-07T21:30:28.340Z",
+      "name": "MONTAGEM TEM QUE TIRAR O CHAPEU - Slowed",
+      "artists": [
+        "0to8",
+        "DJ VICTOR ZL",
+        "MC Alexandre Fabuloso"
+      ],
+      "album": "MONTAGEM TEM QUE TIRAR O CHAPEU",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cc4b23cfb6df1201ad914452",
+      "uri": "spotify:track:4hI1nOPXOnGUmKGOaJ56S7",
+      "duration_ms": 56964
+    },
+    {
+      "played_at": "2026-06-07T21:34:21.886Z",
+      "name": "Toma Pipocada - Slowed",
+      "artists": [
+        "DJ TLS DA ZL"
+      ],
+      "album": "Toma Pipocada",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733bdbd200ddb249fda330068b",
+      "uri": "spotify:track:7fwvg3mwCgTshx2HGOInc7",
+      "duration_ms": 119727
+    },
+    {
+      "played_at": "2026-06-07T21:37:12.535Z",
+      "name": "Taca Xe - Slowed",
+      "artists": [
+        "DJ TLS DA ZL"
+      ],
+      "album": "Taca Xe (Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a47840362cc67094a5f8d1eb",
+      "uri": "spotify:track:7ungP4JfwIo3ELFzVfrcYl",
+      "duration_ms": 89707
+    },
+    {
+      "played_at": "2026-06-07T21:42:12.074Z",
+      "name": "lilacs - slowed",
+      "artists": [
+        "azrxel",
+        "abxddon"
+      ],
+      "album": "lilacs - slowed",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fa2d6890d16898c1723b5a9e",
+      "uri": "spotify:track:0ccbLXnIFSRzHcALyvPtde",
+      "duration_ms": 70866
+    },
+    {
+      "played_at": "2026-06-07T21:45:18.897Z",
+      "name": "h4rdjump_1988 - Ultra Slowed",
+      "artists": [
+        "$werve"
+      ],
+      "album": "h4rdjump_1988",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737b5c331c24848f2a0794dacf",
+      "uri": "spotify:track:2uKz03RCn0BAr8ZpWH5krl",
+      "duration_ms": 82325
+    },
+    {
+      "played_at": "2026-06-07T21:47:05.518Z",
+      "name": "wutiwant - SLOWD",
+      "artists": [
+        "saraunh0ly"
+      ],
+      "album": "wutuwant",
+      "image": "https://i.scdn.co/image/ab67616d0000b27398f96551e4c468d48f48f3e3",
+      "uri": "spotify:track:6bxukxNnfPyph0sqhnGhpW",
+      "duration_ms": 106173
+    },
+    {
+      "played_at": "2026-06-07T21:48:20.940Z",
+      "name": "Better Off Alone - Slowed",
+      "artists": [
+        "Mckyyy"
+      ],
+      "album": "Better Off Alone (Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d9f8717b07430fb9e48d5960",
+      "uri": "spotify:track:1rzXMehi59zCgIW38Txd6O",
+      "duration_ms": 74977
+    },
+    {
+      "played_at": "2026-06-07T21:50:25.958Z",
+      "name": "pussypodium - Slowed",
+      "artists": [
+        "akiaura",
+        "LONOWN"
+      ],
+      "album": "pussypodium (Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27375d19c40d243afc0c4650a54",
+      "uri": "spotify:track:7HIbewxNvNHNfn8QMDh6WS",
+      "duration_ms": 211459
+    },
+    {
+      "played_at": "2026-06-07T21:52:26.424Z",
+      "name": "pussypodium - Slowed",
+      "artists": [
+        "akiaura",
+        "LONOWN"
+      ],
+      "album": "pussypodium (Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27375d19c40d243afc0c4650a54",
+      "uri": "spotify:track:7HIbewxNvNHNfn8QMDh6WS",
+      "duration_ms": 211459
+    },
+    {
+      "played_at": "2026-06-07T21:58:21.404Z",
+      "name": "Untitled #13 (Super Slowed)",
+      "artists": [
+        "glwzbll"
+      ],
+      "album": "Untitled #13 (Super Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d30e3aa73964a66295aa5d47",
+      "uri": "spotify:track:3fC7BKJN66Tyq44x6Try2R",
+      "duration_ms": 192000
     }
   ]
 }

@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-06-07T19:20:32.470Z",
-  "is_playing": false,
+  "updated_at": "2026-06-07T22:02:31.583Z",
+  "is_playing": true,
   "track": {
-    "name": "Just The Way You Are",
+    "name": "Slow Down",
     "artists": [
-      "Milky",
-      "Mall Grab"
+      "Selena Gomez"
     ],
-    "album": "Just The Way You Are",
-    "image": "https://i.scdn.co/image/ab67616d0000b2736abc7b1d4d7fa509bb7ee2f6",
-    "uri": "spotify:track:1LepWHpwtahzEQL0vNjpEt"
+    "album": "Stars Dance (Bonus Track Version)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2730e36690135fa1a30d048e604",
+    "uri": "spotify:track:2OsEJFTfzfjG4oC92cuP2c"
   },
-  "played_at": "2026-06-07T15:25:31.551Z"
+  "played_at": "2026-06-07T22:02:31.583Z"
 }
