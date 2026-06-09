@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-09T20:05:53.813Z",
+  "updated_at": "2026-06-09T22:23:25.616Z",
   "is_playing": false,
   "track": {
-    "name": "Ya Layaly",
+    "name": "Don't Be so Shy - Filatov & Karas Remix",
     "artists": [
-      "Sherine"
+      "Imany",
+      "Filatov & Karas"
     ],
-    "album": "Ana Kteer",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d339efcd64ea5be44dd12e88",
-    "uri": "spotify:track:2EmLwhd0RfEyFQjXNIenJG"
+    "album": "Don't Be So Shy (Filatov & Karas Remix)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273aa6153b9f13d61635e1bcc17",
+    "uri": "spotify:track:4mkMj5SPMC112y5TvqNee6"
   },
-  "played_at": "2026-06-09T19:55:38.940Z"
+  "played_at": "2026-06-09T20:15:55.177Z"
 }
