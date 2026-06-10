@@ -1,15 +1,16 @@
 {
-  "updated_at": "2026-06-10T15:31:37.061Z",
-  "is_playing": false,
+  "updated_at": "2026-06-10T20:28:33.620Z",
+  "is_playing": true,
   "track": {
-    "name": "Dreams pt. II",
+    "name": "Shelter Me - Extended Mix",
     "artists": [
-      "Lost Sky",
-      "Sara Skinner"
+      "Dart Rayne",
+      "Yura Moonlight",
+      "Cate Kanell"
     ],
-    "album": "Dreams pt. II",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c664fbbc54d2f066a451459a",
-    "uri": "spotify:track:4cPjdCjNaGEgK0uXvjd7ql"
+    "album": "Shelter Me",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cbddc0528e62094567550298",
+    "uri": "spotify:track:7xcWs5JFNbVmtnR1WEFeMD"
   },
-  "played_at": "2026-06-10T13:01:53.555Z"
+  "played_at": "2026-06-10T20:28:33.620Z"
 }
