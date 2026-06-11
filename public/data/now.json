@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-10T22:50:21.531Z",
-  "is_playing": true,
+  "updated_at": "2026-06-11T03:49:41.131Z",
+  "is_playing": false,
   "track": {
-    "name": "Turn It Up",
+    "name": "Escalade",
     "artists": [
-      "Anikdote"
+      "Dialryckx"
     ],
-    "album": "Turn It Up",
-    "image": "https://i.scdn.co/image/ab67616d0000b27344197af590d960eafca841c9",
-    "uri": "spotify:track:0gC25fBDME4eketFhsMxWb"
+    "album": "Dissonance",
+    "image": "https://i.scdn.co/image/ab67616d0000b2737d816a9dffa81e2dbd78b4f2",
+    "uri": "spotify:track:4W6NQidG9RwC0cjFpiA2rO"
   },
-  "played_at": "2026-06-10T22:50:21.531Z"
+  "played_at": "2026-06-11T03:24:52.775Z"
 }

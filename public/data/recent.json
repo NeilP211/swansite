@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T22:50:21.379Z",
+  "updated_at": "2026-06-11T03:49:41.021Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -3160,6 +3160,54 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27377471a41be95febc437614d4",
       "uri": "spotify:track:1T09ARjY1LkuSJVJTk100T",
       "duration_ms": 151632
+    },
+    {
+      "played_at": "2026-06-10T22:53:58.521Z",
+      "name": "On & On",
+      "artists": [
+        "Cartoon",
+        "Jéja",
+        "Daniel Levi"
+      ],
+      "album": "On & On",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cddf36938e728faddac61d96",
+      "uri": "spotify:track:4uukXoeAUxow3aV9kVkcjY",
+      "duration_ms": 207068
+    },
+    {
+      "played_at": "2026-06-11T00:29:48.940Z",
+      "name": "Shelter Me",
+      "artists": [
+        "Dart Rayne",
+        "Yura Moonlight",
+        "Cate Kanell"
+      ],
+      "album": "Shelter Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cbddc0528e62094567550298",
+      "uri": "spotify:track:19Tg7aUf30PnCKYkFaknM2",
+      "duration_ms": 236375
+    },
+    {
+      "played_at": "2026-06-11T00:30:33.026Z",
+      "name": "Goliath",
+      "artists": [
+        "Dialryckx"
+      ],
+      "album": "Incurable",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dc6c9c46e81f09dee8ee7898",
+      "uri": "spotify:track:5Jlwe2G5NQyUAz1cn3oVf8",
+      "duration_ms": 39000
+    },
+    {
+      "played_at": "2026-06-11T03:24:52.775Z",
+      "name": "Escalade",
+      "artists": [
+        "Dialryckx"
+      ],
+      "album": "Dissonance",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d816a9dffa81e2dbd78b4f2",
+      "uri": "spotify:track:4W6NQidG9RwC0cjFpiA2rO",
+      "duration_ms": 74120
     }
   ]
 }
