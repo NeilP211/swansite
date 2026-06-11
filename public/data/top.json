@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T10:21:23.161Z",
+  "generated_at": "2026-06-11T15:57:30.862Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -801,6 +801,14 @@
         },
         {
           "rank": 22,
+          "name": "Dart Rayne",
+          "image": "https://i.scdn.co/image/ab67616d0000b273dc6a66998117382d8fab6b0b",
+          "genres": [],
+          "uri": "spotify:artist:0iZ4z3wqXoVPkDc8FbLKHW",
+          "url": "https://open.spotify.com/artist/0iZ4z3wqXoVPkDc8FbLKHW"
+        },
+        {
+          "rank": 23,
           "name": "Fadel Chaker",
           "image": "https://i.scdn.co/image/ab6761610000e5ebefc1fc78f05677fb9950f11f",
           "genres": [],
@@ -808,7 +816,7 @@
           "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Elissa",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb9e4f4dc02996d2b6f1749cd",
           "genres": [],
@@ -816,7 +824,7 @@
           "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "eMu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb27b6e1a30da2892ca080e934",
           "genres": [],
@@ -824,20 +832,12 @@
           "url": "https://open.spotify.com/artist/09N69PfV837oDhu5Uo49vg"
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "D.O.D",
           "image": "https://i.scdn.co/image/ab6761610000e5eb74cf50aa63068966ceebe8ff",
           "genres": [],
           "uri": "spotify:artist:0Cs47vvRsPgEfliBU9KDiB",
           "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "rank": 26,
-          "name": "Dart Rayne",
-          "image": "https://i.scdn.co/image/ab67616d0000b273dc6a66998117382d8fab6b0b",
-          "genres": [],
-          "uri": "spotify:artist:0iZ4z3wqXoVPkDc8FbLKHW",
-          "url": "https://open.spotify.com/artist/0iZ4z3wqXoVPkDc8FbLKHW"
         },
         {
           "rank": 27,

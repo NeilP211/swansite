@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-11T10:21:23.344Z",
-  "is_playing": false,
+  "updated_at": "2026-06-11T15:57:31.118Z",
+  "is_playing": true,
   "track": {
-    "name": "Escalade",
+    "name": "Ready 4 War",
     "artists": [
-      "Dialryckx"
+      "Edot Babyy"
     ],
-    "album": "Dissonance",
-    "image": "https://i.scdn.co/image/ab67616d0000b2737d816a9dffa81e2dbd78b4f2",
-    "uri": "spotify:track:4W6NQidG9RwC0cjFpiA2rO"
+    "album": "Ready 4 War",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a63fad78706cae6adb668a23",
+    "uri": "spotify:track:490tOvPwkVklIX9dX6rdp7"
   },
-  "played_at": "2026-06-11T03:24:52.775Z"
+  "played_at": "2026-06-11T15:57:31.118Z"
 }
