@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-11T15:57:31.118Z",
+  "updated_at": "2026-06-11T20:19:41.660Z",
   "is_playing": true,
   "track": {
-    "name": "Ready 4 War",
+    "name": "A Desert Rose - Radio Edit",
     "artists": [
-      "Edot Babyy"
+      "Radion6",
+      "Sarah Lynn"
     ],
-    "album": "Ready 4 War",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a63fad78706cae6adb668a23",
-    "uri": "spotify:track:490tOvPwkVklIX9dX6rdp7"
+    "album": "Vocal Trance Selections",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ce4644447e3f0b2fb7bcd9da",
+    "uri": "spotify:track:6V8lYQmkHtyki1u4M11iNB"
   },
-  "played_at": "2026-06-11T15:57:31.118Z"
+  "played_at": "2026-06-11T20:19:41.660Z"
 }

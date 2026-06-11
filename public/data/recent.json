@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T15:57:31.011Z",
+  "updated_at": "2026-06-11T20:19:41.565Z",
   "plays": [
     {
       "played_at": "2026-06-03T14:30:49.254Z",
@@ -3332,6 +3332,345 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c013a031057dea506332cf09",
       "uri": "spotify:track:6P88CCeahOEjrhJYX1IArF",
       "duration_ms": 213529
+    },
+    {
+      "played_at": "2026-06-11T15:53:39.989Z",
+      "name": "Nevada",
+      "artists": [
+        "Vicetone",
+        "Cozi Zuehlsdorff"
+      ],
+      "album": "Nevada",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f48a2a4e66094853072c3b79",
+      "uri": "spotify:track:02shCNmb6IvgB5jLqKjtkK",
+      "duration_ms": 208561
+    },
+    {
+      "played_at": "2026-06-11T15:57:33.044Z",
+      "name": "Ready 4 War",
+      "artists": [
+        "Edot Babyy"
+      ],
+      "album": "Ready 4 War",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a63fad78706cae6adb668a23",
+      "uri": "spotify:track:490tOvPwkVklIX9dX6rdp7",
+      "duration_ms": 114860
+    },
+    {
+      "played_at": "2026-06-11T15:59:46.451Z",
+      "name": "Dead Gz",
+      "artists": [
+        "Kenzo Balla Archives"
+      ],
+      "album": "Dead Gz",
+      "image": "https://i.scdn.co/image/ab67616d0000b273475e575764b134705e13526b",
+      "uri": "spotify:track:6p0i4efAAtFWyZ2ma3ia4O",
+      "duration_ms": 130751
+    },
+    {
+      "played_at": "2026-06-11T17:03:46.297Z",
+      "name": "...and Suffer As One",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Odd Fellows Rest",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d4fcc6b9ceb3219f4dbb7602",
+      "uri": "spotify:track:6dY5hqP7RPPjjA8rLukrtD",
+      "duration_ms": 249813
+    },
+    {
+      "played_at": "2026-06-11T17:07:46.678Z",
+      "name": "To Carry the Load",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Odd Fellows Rest",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d4fcc6b9ceb3219f4dbb7602",
+      "uri": "spotify:track:5vU2ducXIVXb5vcCgcsGfo",
+      "duration_ms": 239960
+    },
+    {
+      "played_at": "2026-06-11T17:10:59.003Z",
+      "name": "All I Had (I Gave)",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Crowbar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738daf82bcd4645257c0c47dc8",
+      "uri": "spotify:track:5jfV9RbPOlR2sRbUyHG7PH",
+      "duration_ms": 191853
+    },
+    {
+      "played_at": "2026-06-11T17:15:33.041Z",
+      "name": "Dream Weaver",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Equilibrium",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739804927b272a03f35548e2b5",
+      "uri": "spotify:track:2047TWHVoXXIgbiyPx1vMd",
+      "duration_ms": 531066
+    },
+    {
+      "played_at": "2026-06-11T17:19:55.957Z",
+      "name": "Dream Weaver",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Equilibrium",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739804927b272a03f35548e2b5",
+      "uri": "spotify:track:2047TWHVoXXIgbiyPx1vMd",
+      "duration_ms": 531066
+    },
+    {
+      "played_at": "2026-06-11T17:26:23.163Z",
+      "name": "Fall Back To Zero",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Lifesblood For The Downtrodden",
+      "image": "https://i.scdn.co/image/ab67616d0000b273523f61387484bf36bb861c36",
+      "uri": "spotify:track:1RGAg43GgHVh5hEK5fI7hp",
+      "duration_ms": 387000
+    },
+    {
+      "played_at": "2026-06-11T17:29:25.077Z",
+      "name": "No Quarter",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Crowbar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738daf82bcd4645257c0c47dc8",
+      "uri": "spotify:track:0is49LvQTZ4fIIP8lpf2TE",
+      "duration_ms": 270573
+    },
+    {
+      "played_at": "2026-06-11T17:31:21.655Z",
+      "name": "No Quarter",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Crowbar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738daf82bcd4645257c0c47dc8",
+      "uri": "spotify:track:0is49LvQTZ4fIIP8lpf2TE",
+      "duration_ms": 270573
+    },
+    {
+      "played_at": "2026-06-11T17:36:05.806Z",
+      "name": "THROUGH THE ASHES",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Sonic Excess In Its Purest Form",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b88352abbf7933674c0e0678",
+      "uri": "spotify:track:3UUcNxncjC80qWVr2pnVbw",
+      "duration_ms": 283680
+    },
+    {
+      "played_at": "2026-06-11T17:40:00.323Z",
+      "name": "Counting Daze",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Sonic Excess In Its Purest Form",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b88352abbf7933674c0e0678",
+      "uri": "spotify:track:7eNLwJEh8laxCLnXAy8KZu",
+      "duration_ms": 234133
+    },
+    {
+      "played_at": "2026-06-11T17:44:33.727Z",
+      "name": "The Serpent Only Lies",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "The Serpent Only Lies",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dbf5387bb7bc90dad83cc6d1",
+      "uri": "spotify:track:7zXx5QBYuwUeweJVN9kp5M",
+      "duration_ms": 273013
+    },
+    {
+      "played_at": "2026-06-11T17:48:46.410Z",
+      "name": "THE LASTING DOSE",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Sonic Excess In Its Purest Form",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b88352abbf7933674c0e0678",
+      "uri": "spotify:track:0Y6GrOe5es91I9t3Kcxkri",
+      "duration_ms": 252120
+    },
+    {
+      "played_at": "2026-06-11T17:53:25.412Z",
+      "name": "Planets Collide",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Odd Fellows Rest",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d4fcc6b9ceb3219f4dbb7602",
+      "uri": "spotify:track:63pYUOIN96N6MkWN6vPEfP",
+      "duration_ms": 278693
+    },
+    {
+      "played_at": "2026-06-11T17:58:47.059Z",
+      "name": "Walk With Knowledge Wisely",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Symmetry In Black",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4442d861f65b1729795e19b",
+      "uri": "spotify:track:21u4roku01KjSMCdQ5b65x",
+      "duration_ms": 321226
+    },
+    {
+      "played_at": "2026-06-11T18:02:25.459Z",
+      "name": "Embracing Emptiness",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Time Heals Nothing",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a8e43dab4f9a35896af803b",
+      "uri": "spotify:track:3TiTVeUSmvuv2f2jo4P2XB",
+      "duration_ms": 217960
+    },
+    {
+      "played_at": "2026-06-11T18:06:05.341Z",
+      "name": "Dead Sun",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Lifesblood For The Downtrodden",
+      "image": "https://i.scdn.co/image/ab67616d0000b273523f61387484bf36bb861c36",
+      "uri": "spotify:track:0h5wHmadfJbLgxC347tuw5",
+      "duration_ms": 219360
+    },
+    {
+      "played_at": "2026-06-11T18:09:49.481Z",
+      "name": "Like Broken Glass",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "Broken Glass",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730d6cd805bacf1d63513217e2",
+      "uri": "spotify:track:57HNHe02SES14We54dxV13",
+      "duration_ms": 223560
+    },
+    {
+      "played_at": "2026-06-11T18:14:44.134Z",
+      "name": "Surviving The Abyss",
+      "artists": [
+        "Crowbar"
+      ],
+      "album": "The Serpent Only Lies",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dbf5387bb7bc90dad83cc6d1",
+      "uri": "spotify:track:55aNXrn2mihP5GZLIMi6Pu",
+      "duration_ms": 292493
+    },
+    {
+      "played_at": "2026-06-11T18:18:24.252Z",
+      "name": "FMJ (feat. Che)",
+      "artists": [
+        "OsamaSon",
+        "Che"
+      ],
+      "album": "psykotic",
+      "image": "https://i.scdn.co/image/ab67616d0000b27341d8c624c257ffccbca8c3ad",
+      "uri": "spotify:track:4iLsg1kZif1DGcdywxEP3M",
+      "duration_ms": 189295
+    },
+    {
+      "played_at": "2026-06-11T18:21:24.683Z",
+      "name": "tell me",
+      "artists": [
+        "phreshboyswag"
+      ],
+      "album": "my autumn diary",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f326c1cae78e61948f2e82",
+      "uri": "spotify:track:39gLThbNYFbGRU7kCulIgm",
+      "duration_ms": 72539
+    },
+    {
+      "played_at": "2026-06-11T18:23:17.800Z",
+      "name": "jaded",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "with 2 (hosted by d9lton)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d2ed644358b6ec160c4c507",
+      "uri": "spotify:track:1Hnx5gNFMhPuONgSwNefR5",
+      "duration_ms": 112733
+    },
+    {
+      "played_at": "2026-06-11T18:23:17.866Z",
+      "name": "Feeliinuu",
+      "artists": [
+        "Nettspend"
+      ],
+      "album": "Feeliinuu",
+      "image": "https://i.scdn.co/image/ab67616d0000b273198e1d57a6e2aba4a591ae62",
+      "uri": "spotify:track:0WR4Bo24zWRujhjrof1tJS",
+      "duration_ms": 71726
+    },
+    {
+      "played_at": "2026-06-11T18:25:39.602Z",
+      "name": "GIRLS",
+      "artists": [
+        "Henry Mosto",
+        "phreshboyswag",
+        "Marlon DuBois",
+        "Laker",
+        "Dream Caster",
+        "Milkreset",
+        "Ricky Chix",
+        "Dugan"
+      ],
+      "album": "S3X¥",
+      "image": "https://i.scdn.co/image/ab67616d0000b27313dbd196a81b567c737da23f",
+      "uri": "spotify:track:1c3dyQXoVQnh96KVoSAJ4B",
+      "duration_ms": 141244
+    },
+    {
+      "played_at": "2026-06-11T18:29:29.969Z",
+      "name": "ur not - diff ver",
+      "artists": [
+        "idully"
+      ],
+      "album": "ur not (diff ver)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734970f37285c78186b7ae7f48",
+      "uri": "spotify:track:3tEdHHiqOwfJknBWAHyIU2",
+      "duration_ms": 88842
+    },
+    {
+      "played_at": "2026-06-11T18:34:21.103Z",
+      "name": "Fighting My Demons",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "A Great Chaos",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
+      "uri": "spotify:track:2c7sRekhMGlj7u1WIIzoQu",
+      "duration_ms": 150401
+    },
+    {
+      "played_at": "2026-06-11T18:36:39.954Z",
+      "name": "Freestyle 2",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "X",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa2acda98644476f5086cd02",
+      "uri": "spotify:track:28niVl6iodHnHpE1bCeJiV",
+      "duration_ms": 138319
+    },
+    {
+      "played_at": "2026-06-11T20:13:40.572Z",
+      "name": "LiveLeak",
+      "artists": [
+        "Ken Carson"
+      ],
+      "album": "More Chaos",
+      "image": "https://i.scdn.co/image/ab67616d0000b27353b16cd45ce027fc7b65f9e8",
+      "uri": "spotify:track:7aURTqVzpZxkJfboCvGc69",
+      "duration_ms": 190541
     }
   ]
 }
